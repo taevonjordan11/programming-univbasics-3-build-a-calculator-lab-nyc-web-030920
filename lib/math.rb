@@ -15,7 +15,7 @@ end
 def division(num1, num2)
   num1 = 50
   num2 = 2
-  quotient = num1 / num2
+  quotient = num1 / num2 
   return = quotient
 end
 
