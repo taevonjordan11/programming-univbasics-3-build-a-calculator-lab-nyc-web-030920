@@ -22,6 +22,7 @@ end
 def multiplication(num1, num2)
   num1 = 50
   num2 = 2
+  product = num1 * num2
 end
 
 def modulo(num1, num2)
